@@ -1,0 +1,8 @@
+com\targor\navfreeconverter\Helper.class
+com\targor\navfreeconverter\MagicEarthFavourite.class
+com\targor\navfreeconverter\NavFreeFavourite.class
+com\targor\navfreeconverter\NavFreeConverter$CustomComparator.class
+com\targor\navfreeconverter\Log$Logverbosity.class
+com\targor\navfreeconverter\Log.class
+com\targor\navfreeconverter\NavFreeConverter.class
+com\targor\navfreeconverter\Log$Logtype.class
